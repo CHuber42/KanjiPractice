@@ -15,8 +15,8 @@ From command line:
 RanKanjiSelector.py will engage the random-prompt version of the tool.
 ### Added in 2nd major release:
 addKanji.py "entry1" "entry2" ... has been deprecated.
-This functionality is now packaged inside the main file using flag:
- "--addKanji".
+This functionality is now packaged inside the main file using flag:        
+"--addKanji".
 ex:
 RanKanjiSelector.py --addKanji "thing to add" "another thing to add".
 
