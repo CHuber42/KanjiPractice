@@ -68,7 +68,10 @@ ex:
 RanKanjiSelector.py --addKanji "thing to add" "another thing to add".
 
 __arg can be any text prompt you wish, be it "go" or "go (as in 'after')",
-for clarification!__
+for clarification! HOWEVER, because of update 2 using CSVs to parse entries,
+DO NOT include commas in your prompt!
+OK: "thing/as in an object"
+NOT OK: "thing, as in an object"__
 
 Also new: At prompt, 'r' will remove the entry from the prompt list. Designed
 to help focus energy on new entries and less on previously-mastered entries.
