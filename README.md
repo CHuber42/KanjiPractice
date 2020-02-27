@@ -43,6 +43,7 @@ CKJ character on it. The format of each line is:
 "prompt of choice in english", "CKJ character","\n"
 
 This interacts with a few moving pieces:
+
 1.
 * 's' at prompt will show the kanji you're supposed to practice, if you've forgotten it
 * 'i' at prompt will invert the prompt, to display the kanji instead of the prompt (to help with reading instead of writing)
